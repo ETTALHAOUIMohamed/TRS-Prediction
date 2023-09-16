@@ -1,2 +1,2 @@
 "# TRS-Prediction" 
- Pr‚diction du Taux de Rendement Synth‚tique (TRS) … partir d'un historique de donn‚es brutes 
+ PrÃ©diction du Taux de Rendement SynthÃ©tique (TRS) Ã  partir d'un historique de donnÃ©es brutes 
